@@ -1,0 +1,3 @@
+User-Agent:*
+
+Sitemap: https://otakuassembly.github.io/sitemap.xml
