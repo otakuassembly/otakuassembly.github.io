@@ -1,3 +1,3 @@
 User-Agent:*
 
-Sitemap: https://otakuassembly.taprix.org/sitemap.xml
+Sitemap: https://otakuassembly.github.io/sitemap.xml
