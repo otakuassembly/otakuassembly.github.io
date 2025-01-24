@@ -114,10 +114,8 @@ menu {
 
 .main_contents > div {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    padding-right: 2vw;
-    padding-left: 2vw;
+    margin: 5vh auto;
+    padding: 2vh 2vw;
     max-width: 1200px;
     background-color: white;
     text-align: center;
@@ -174,13 +172,6 @@ menu {
 
 .booth_icon {
     max-width: 80%;
-}
-
-.twitter {
-    max-width: 100%;
-    max-height: 60vh;
-    overflow-y: scroll;
-    margin: auto;
 }
 
 .twitter_icon_list {
